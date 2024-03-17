@@ -1,2 +1,2 @@
 # Proyecto3DGamePlataformaRobot
-Proyecto de aprendizaje juego plataforma 3D
+Proyecto laboratorio de aprendizaje, robot en plataforma.
